@@ -1,0 +1,6 @@
+.env
+__pycache__
+langgraph.db
+islr.pdf
+*.indices
+.venv
