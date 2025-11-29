@@ -14,6 +14,7 @@ dependencies = [
     "langchain-groq>=1.1.0",
     "langchain-huggingface>=1.1.0",
     "langchain-openai>=1.1.0",
+    "langgraph>=1.0.4",
     "langserve>=0.3.3",
     "sentence-transformers>=5.1.2",
     "sse-starlette>=3.0.3",
