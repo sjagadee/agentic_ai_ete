@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "arxiv>=2.3.1",
     "dotenv>=0.9.9",
     "fastapi>=0.122.0",
     "langchain>=1.1.0",
@@ -14,10 +15,12 @@ dependencies = [
     "langchain-groq>=1.1.0",
     "langchain-huggingface>=1.1.0",
     "langchain-openai>=1.1.0",
+    "langchain-tavily>=0.2.13",
     "langgraph>=1.0.4",
     "langserve>=0.3.3",
     "sentence-transformers>=5.1.2",
     "sse-starlette>=3.0.3",
     "transformers>=4.57.3",
     "uvicorn>=0.38.0",
+    "wikipedia>=1.4.0",
 ]
